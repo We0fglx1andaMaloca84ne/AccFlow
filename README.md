@@ -4,3 +4,4 @@ SetupGuide
 LedgerFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
