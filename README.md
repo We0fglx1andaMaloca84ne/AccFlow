@@ -5,3 +5,4 @@ LedgerFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
