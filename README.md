@@ -12,3 +12,4 @@ AccountingFAQ
 Changelog
 TestingInstructions
 LedgerPerformance
+CommunityResources
